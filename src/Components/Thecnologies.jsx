@@ -26,11 +26,11 @@ export default function Thecnologies() {
         <span className='text-sm italic font-bold'>React</span>
       </div>
       <div className='flex  items-center text-center space-x-2'>
-        <img src="/images/symfony.png" alt="Symfony" className='w-10 h-10 rounded-full'/>
+        <img src="/images/symfony.png" className='w-10 h-10 rounded-full'/>
         <span className='text-sm italic font-bold'>Symfony</span>
       </div>
       <div className='flex items-center text-center space-x-2'>
-        <img src="/images/t.png" alt="Tailwindcss" className='w-10 h-10 rounded-full'/>
+        <img src="/images/ta.jpg" className='w-10 h-10 rounded-full'/>
         <span className='text-sm italic font-bold'>Tailwind</span>
       </div>
       <div className='flex gap-2  items-center text-center ml-2'>
