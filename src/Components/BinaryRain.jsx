@@ -10,7 +10,7 @@ export default function BinaryRain() {
         canvas.height = window.innerHeight;
 
         const binaryChars = '01'
-        const fontSize = 4;
+        const fontSize = 3;
         const columns = canvas.width / fontSize;
         const drops = Array.from({length: columns}).map(() => Math.random() * canvas.height);
 
